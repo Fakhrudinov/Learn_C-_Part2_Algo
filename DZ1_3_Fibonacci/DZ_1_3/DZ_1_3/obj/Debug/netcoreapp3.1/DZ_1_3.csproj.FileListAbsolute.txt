@@ -1,0 +1,13 @@
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\bin\Debug\netcoreapp3.1\DZ_1_3.exe
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\bin\Debug\netcoreapp3.1\DZ_1_3.deps.json
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\bin\Debug\netcoreapp3.1\DZ_1_3.runtimeconfig.json
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\bin\Debug\netcoreapp3.1\DZ_1_3.runtimeconfig.dev.json
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\bin\Debug\netcoreapp3.1\DZ_1_3.dll
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\bin\Debug\netcoreapp3.1\DZ_1_3.pdb
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\obj\Debug\netcoreapp3.1\DZ_1_3.csprojAssemblyReference.cache
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\obj\Debug\netcoreapp3.1\DZ_1_3.AssemblyInfoInputs.cache
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\obj\Debug\netcoreapp3.1\DZ_1_3.AssemblyInfo.cs
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\obj\Debug\netcoreapp3.1\DZ_1_3.csproj.CoreCompileInputs.cache
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\obj\Debug\netcoreapp3.1\DZ_1_3.dll
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\obj\Debug\netcoreapp3.1\DZ_1_3.pdb
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1_3_Fibonacci\DZ_1_3\DZ_1_3\obj\Debug\netcoreapp3.1\DZ_1_3.genruntimeconfig.cache

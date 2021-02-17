@@ -1,0 +1,13 @@
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\bin\Debug\netcoreapp3.1\DZ_1.exe
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\bin\Debug\netcoreapp3.1\DZ_1.deps.json
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\bin\Debug\netcoreapp3.1\DZ_1.runtimeconfig.json
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\bin\Debug\netcoreapp3.1\DZ_1.runtimeconfig.dev.json
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\bin\Debug\netcoreapp3.1\DZ_1.dll
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\bin\Debug\netcoreapp3.1\DZ_1.pdb
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\obj\Debug\netcoreapp3.1\DZ_1.csprojAssemblyReference.cache
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\obj\Debug\netcoreapp3.1\DZ_1.AssemblyInfoInputs.cache
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\obj\Debug\netcoreapp3.1\DZ_1.AssemblyInfo.cs
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\obj\Debug\netcoreapp3.1\DZ_1.csproj.CoreCompileInputs.cache
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\obj\Debug\netcoreapp3.1\DZ_1.dll
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\obj\Debug\netcoreapp3.1\DZ_1.pdb
+E:\Downloads\Обучение\C#\DZ_Repozitoriy\stage2_AlgorhitmAndDataStucture\Learn_C#_Part2_Algo\DZ1-1\DZ_1\DZ_1\obj\Debug\netcoreapp3.1\DZ_1.genruntimeconfig.cache
